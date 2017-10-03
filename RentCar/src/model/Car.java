@@ -46,7 +46,5 @@ public class Car {
 	public void setFare(float fare) {
 		this.fare = fare;
 	}
-	
-	
 
 }
